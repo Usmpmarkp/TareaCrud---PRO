@@ -278,3 +278,4 @@ D:\USMP\Programacion\Guia\TareaCrud - PRO\obj\Debug\net8.0\refint\TareaCrud - PR
 D:\USMP\Programacion\Guia\TareaCrud - PRO\obj\Debug\net8.0\TareaCrud - PRO.pdb
 D:\USMP\Programacion\Guia\TareaCrud - PRO\obj\Debug\net8.0\TareaCrud - PRO.genruntimeconfig.cache
 D:\USMP\Programacion\Guia\TareaCrud - PRO\obj\Debug\net8.0\ref\TareaCrud - PRO.dll
+C:\Users\sebas\Desktop\Programación\TareaCrud - PRO\obj\Debug\net8.0\TareaCrud - PRO.sourcelink.json
